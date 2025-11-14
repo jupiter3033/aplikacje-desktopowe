@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\usersreposi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\usersreposi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|c:\\users\\uczen\\documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\usersreposi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B660F46-7C09-4431-B5E5-70788693E275}|teststset\\teststset.csproj|solutionrelative:teststset\\usersreposi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "login.cs",
               "DocumentMoniker": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs",
               "RelativeDocumentMoniker": "teststset\\login.cs",
-              "ToolTip": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs",
-              "RelativeToolTip": "teststset\\login.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwD8AAABaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs*",
+              "RelativeToolTip": "teststset\\login.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T16:38:19.818Z",
               "EditorCaption": ""
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "usersreposi.cs",
               "DocumentMoniker": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\usersreposi.cs",
               "RelativeDocumentMoniker": "teststset\\usersreposi.cs",
@@ -85,12 +85,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "login.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs",
               "RelativeDocumentMoniker": "teststset\\login.cs",
-              "ToolTip": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs [Projekt]",
-              "RelativeToolTip": "teststset\\login.cs [Projekt]",
+              "ToolTip": "C:\\Users\\uczen\\Documents\\kg3dp\\aplikacje-desktopowe\\1.aplikacja winforms\\teststset\\teststset\\login.cs [Projekt]*",
+              "RelativeToolTip": "teststset\\login.cs [Projekt]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T15:52:17.666Z",
               "EditorCaption": " [Projekt]"
