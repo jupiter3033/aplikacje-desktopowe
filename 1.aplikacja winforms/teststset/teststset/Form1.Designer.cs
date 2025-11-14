@@ -1,5 +1,5 @@
 ﻿
-namespace tescik
+namespace teststset
 {
     partial class Form1
     {
